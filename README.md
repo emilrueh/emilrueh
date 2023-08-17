@@ -1,4 +1,4 @@
-Data Analytics | Python | OpenAI | Blockchain
+Data | Python | OpenAI API
 <!---
 emilrueh/emilrueh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
