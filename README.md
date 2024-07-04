@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://i.giphy.com/oOxSXI5D2cvc6kYSvw.webp" alt="Gif rendering Neo from The Matrix in symbols." width="561">
+    <img src="https://i.giphy.com/oOxSXI5D2cvc6kYSvw.gif" alt="Gif rendering Neo from The Matrix in symbols." width="561">
 </div>
 
 <!--
